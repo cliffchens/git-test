@@ -1,1 +1,3 @@
-file6 added to b1 branch in a new sub-directory called sub-files
+file6 modified in b2 branch in preparation of the merge. 
+we want to keep everything inside the sub-files directory but let the main branch override
+everything in the outer parent directory. so file1, 2, 3, 4, etc. will be updated and changed.
