@@ -1,3 +1,6 @@
 file6 modified in b2 branch in preparation of the merge. 
 we want to keep everything inside the sub-files directory but let the main branch override
 everything in the outer parent directory. so file1, 2, 3, 4, etc. will be updated and changed.
+
+
+this line is included after the pseudo-merge. the plan is to incorporate this change into the main branch in a more proper merge.
