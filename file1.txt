@@ -1,2 +1,4 @@
 first committed file on main
 add additional stuff to file1 to change it for the merge commit to the main branch.
+this line was added while on the b2 branch. we want to let the merge override this file
+so that the main branch version takes over and this line is removed.
